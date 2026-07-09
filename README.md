@@ -23,4 +23,4 @@ This project contains an Excel-based Risk Calculator designed to assess and calc
 4. Review the calculated risk results.
 
 ## Author
-**Darshn Sharma**
+**Darsh Sharma**
